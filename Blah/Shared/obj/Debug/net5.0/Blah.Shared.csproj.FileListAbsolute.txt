@@ -1,0 +1,11 @@
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\bin\Debug\net5.0\Blah.Shared.deps.json
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\bin\Debug\net5.0\Blah.Shared.dll
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\bin\Debug\net5.0\ref\Blah.Shared.dll
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\bin\Debug\net5.0\Blah.Shared.pdb
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\obj\Debug\net5.0\Blah.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\obj\Debug\net5.0\Blah.Shared.AssemblyInfoInputs.cache
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\obj\Debug\net5.0\Blah.Shared.AssemblyInfo.cs
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\obj\Debug\net5.0\Blah.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\obj\Debug\net5.0\Blah.Shared.dll
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\obj\Debug\net5.0\ref\Blah.Shared.dll
+C:\Users\Arad\Desktop\FrontendTest\Blah\Shared\obj\Debug\net5.0\Blah.Shared.pdb

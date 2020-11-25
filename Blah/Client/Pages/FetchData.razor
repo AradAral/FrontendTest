@@ -1,0 +1,33 @@
+﻿@page "/fetchdata"
+@using Blah.Shared
+@inject IBlahClient BlahClient
+
+<h1>GraphQL Server Data Fetch</h1>
+@if (products == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    foreach (IProduct product in products)
+    {
+        <div class="card">
+            <p>Id: @product.Id</p>
+            <p>Title: @product.Title</p>
+            <p>Price: @product.Price</p>
+        </div>
+    }
+}
+
+@code {
+    IEnumerable<IProduct> products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await BlahClient.GetProductsAsync();
+
+        result.EnsureNoErrors();
+
+        products = result.Data.Products;
+    }
+}

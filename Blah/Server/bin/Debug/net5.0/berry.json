@@ -1,0 +1,11 @@
+{
+  "Schemas": [
+    {
+      "Name": "Blah",
+      "Type": "http",
+      "File": "Blah.graphql",
+      "Url": "https://localhost:44355/graphql"
+    }
+  ],
+  "ClientName": "BlahClient"
+}
